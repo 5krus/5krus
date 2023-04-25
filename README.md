@@ -1,4 +1,5 @@
-Hello, I am Eryk. 
+Hello, I am Eryk.
 
-Connect with me! Feel free to chat! :)  
-• https://www.linkedin.com/in/krus/
+I (very) occasionally store projects here.
+
+Feel free to [connect with me](https://linktr.ee/admin)! :)
