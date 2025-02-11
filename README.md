@@ -2,3 +2,6 @@
 
 
 Previously: [Tesla](https://www.linkedin.com/in/krus/details/experience/), [Amazon](https://www.linkedin.com/in/krus/details/experience/). <br/>Contact: ek620@cam.ac.uk
+
+
+I rarely use github
